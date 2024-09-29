@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Yang Wang"
-  pronouns         : # example: "she/her"  
+  pronouns         : "He/Him"  
   bio              : "Researcher in computer vision, machine learnig, artificial intelligence"
   location         : "Montreal, QC"
   employer         : "Concordia University"
