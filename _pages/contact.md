@@ -2,21 +2,26 @@
 permalink: /
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /contact/
+  - /contact.html
 ---
 
 Physical address (my office)
 ====
 ER 945
+
 2155 Guy St
+
 Montreal, QC, Canada, H3H 2L9
 
 Mailing address
 ====
 Department of Computer Science and Software Engineering
+
 1455 De Maisonneuve Blvd. West
+
 ER 1075
+
 Montreal, QC, Canada, H3G 1M8
 
 Phone number
