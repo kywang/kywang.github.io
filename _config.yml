@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "yangwang.png"
   name             : "Yang Wang"
-  pronouns         : "He/Him"  
+  pronouns         : # URL
   bio              : "Researcher in computer vision, machine learnig, artificial intelligence"
   location         : "Montreal, QC"
   employer         : "Concordia University"
