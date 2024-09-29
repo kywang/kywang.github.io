@@ -3,8 +3,6 @@ layout: archive
 title: "Contact Information"
 permalink: /contact/
 author_profile: true
-redirect_from:
-  - /cont
 ---
 
 Physical address (my office)
