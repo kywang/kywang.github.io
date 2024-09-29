@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Yang Wang's academic webpage"
 author_profile: true
 redirect_from: 
   - /about/
