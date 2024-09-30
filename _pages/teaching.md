@@ -1,8 +1,9 @@
 ---
-layout: archive
-title: "Teaching"
-permalink: /teaching/
+permalink: /
 author_profile: true
+redirect_from: 
+  - /teaching/
+  - /teaching.html
 ---
 
 Courses at Concordia
